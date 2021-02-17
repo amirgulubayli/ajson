@@ -2,33 +2,43 @@
   "events": [
     {
       "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "organizer": "Kat Laydee"
+      "category": "Birthday",
+      "title": "Amir's Birthday",
+      "description": "Dont Forget to Celebrate Amir's Birthday.",
+      "location": "12 Newton Rd",
+      "date": "July 02",
+      "time": "All day",
+      "organizer": "Huseyn"
     },
     {
       "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
+      "category": "Food",
+      "title": "Amir's Cafe",
+      "description": "Join us as we eat Amir's delights such as Pirashki & Bread & Crepes",
+      "location": "Wimbledon High Street",
+      "date": "March 14, 2021",
       "time": "10:00",
-      "organizer": "Fern Pollin"
+      "organizer": "Amir G"
     },
     {
       "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
+      "category": "PlayDate",
+      "title": "Meet-Up with Friends",
+      "description": "Meet Up With Us To Have Fun And Play Games!",
+      "location": "Dundonald Park",
+      "date": "July 5, 2021",
       "time": "11:00",
-      "organizer": "Carey Wales"
+      "organizer": "Amir G"
+    },
+    {
+      "id": 4230,
+      "category": "Birthday",
+      "title": "Leylas's Birthday",
+      "description": "Please Forget to Celebrate Leylas's Birthday.",
+      "location": "12 Newton Rd",
+      "date": "November 21",
+      "time": "All day",
+      "organizer": "Huseyn"
     }
   ]
 }
